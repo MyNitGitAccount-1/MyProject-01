@@ -1,5 +1,5 @@
 package com.nt.servlet;
 
-public class TestServlet {
+public class TestServlet extends HttpServlet {
 
 }
